@@ -12,7 +12,7 @@ export function App() {
       <Col className='m-auto' xs={12} md={6}>
         <Container>
           <Card>
-            <Card.Header className='mt-4'>
+            <Card.Header className='class-header-title pt-4'>
               <p className='font-superior text-start'>CORPORACION UNIVERSITARIA MINUTO DE DIOS</p>
             </Card.Header>
             <Card.Body>

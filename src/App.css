@@ -35,3 +35,11 @@ h5 {
 .desarrolloBasado {
     font-weight: 500;
 }
+
+.class-header-title {
+    background-color: #8346f3!important;
+}
+
+.class-header-title p{
+    color: white;
+}
